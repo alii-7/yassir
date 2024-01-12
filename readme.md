@@ -29,6 +29,8 @@ Cron Jobs:
 
 1. Save Pollution Info every 1 hour (because API is updated every hour as per their documentation)
 
+Run "npm run test" to run jest test cases.
+
 <br/>
 
 <h3>File Structure</h3>
