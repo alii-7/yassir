@@ -31,7 +31,7 @@ Cron Jobs:
 
 <br/>
 
-<h3>File Strucure</h3>
+<h3>File Structure</h3>
 
 1. consts includes all app constants
 2. app entry file of the server
